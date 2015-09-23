@@ -1,0 +1,39 @@
+CB
+CP
+AB Jaws;Criten;Fish
+AB It;King;Scary Stuff
+AB The Giver;Chris;Who knows
+AB The Magician;Feist;Fantasy
+AB Aragon;Pauline;Fantasy
+AB Enders Game;Card;SciFi
+AB Children of the Mind;Card;SciFi
+AB The Hobbit 2;Tolkein;Short People
+AB The Hobbit 3;Tolkein;Short People
+AB Jaws;Criten;Fish
+AB It;King;Scary Stuff
+AB The Giver;Chris;Who knows
+AB The Magician;Feist;Fantasy
+AB Aragon;Pauline;Fantasy
+AB Enders Game;Card;SciFi
+AB Children of the Mind;Card;SciFi
+AB The Hobbit 2;Tolkein;Short People
+AB The Hobbit 3;Tolkein;Short People
+AP Tyler Bourque;5613765744;tyler_bourque1993@yahoo.com
+AP Bobby;5555555555;hiya
+AP Lucas;6666666666;hello
+AP Charlie;3333333333;idc
+AP Kim;7777777777;fuckthis
+CO 1;1
+CO 2;2
+CO 3;1
+CO 4;3
+CO 5;4
+CO 6;5
+COR1
+COR2
+CI 6
+CI 1
+CI 2
+RP 5
+COR1
+COR2

@@ -1,0 +1,19 @@
+18
+1 Jaws;Criten;Fish;0
+2 It;King;Scary Stuff;0
+3 The Giver;Chris;Who knows;2
+4 The Magician;Feist;Fantasy;3
+5 Aragon;Pauline;Fantasy;4
+6 Enders Game;Card;SciFi;0
+7 Children of the Mind;Card;SciFi;0
+8 The Hobbit 2;Tolkein;Short People;0
+9 The Hobbit 3;Tolkein;Short People;0
+10 Jaws;Criten;Fish;0
+11 It;King;Scary Stuff;0
+12 The Giver;Chris;Who knows;0
+13 The Magician;Feist;Fantasy;0
+14 Aragon;Pauline;Fantasy;0
+15 Enders Game;Card;SciFi;0
+16 Children of the Mind;Card;SciFi;0
+17 The Hobbit 2;Tolkein;Short People;0
+18 The Hobbit 3;Tolkein;Short People;0
